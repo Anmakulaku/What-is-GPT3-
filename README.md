@@ -3,6 +3,7 @@
 # What is GPT3?
 
 A website that shows you how to build functional, correct structures with reusable components. Fully responsive website with nice animations and gradient texts.
+
 Special thanks go to Adrian Hajdin (https://github.com/adrianhajdin). 
 
 # Live
